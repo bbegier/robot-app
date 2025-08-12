@@ -1,0 +1,11 @@
+Conducting pre-submission checks for teleop-ui_fixed.dmg and initiating connection to the Apple notary service...
+Submission ID received
+  id: 43d0e27d-9882-46a4-8716-c5a17a6749c3
+Successfully uploaded file
+  id: 43d0e27d-9882-46a4-8716-c5a17a6749c3
+  path: /Users/francesco/tele_app/teleop-ui/teleop-ui_fixed.dmg
+Waiting for processing to complete.
+Current status: In Progress...Current status: In Progress....Current status: In Progress.....Current status: In Progress......Current status: Accepted.......Processing complete
+  id: 43d0e27d-9882-46a4-8716-c5a17a6749c3
+  status: Accepted
+

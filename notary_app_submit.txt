@@ -1,0 +1,11 @@
+Conducting pre-submission checks for teleop-ui_app.zip and initiating connection to the Apple notary service...
+Submission ID received
+  id: 2bed49eb-5e59-452b-a6b6-5ce59d76a7ff
+Successfully uploaded file
+  id: 2bed49eb-5e59-452b-a6b6-5ce59d76a7ff
+  path: /Users/francesco/tele_app/teleop-ui/teleop-ui_app.zip
+Waiting for processing to complete.
+Current status: In Progress...Current status: In Progress....Current status: In Progress.....Current status: In Progress......Current status: Accepted.......Processing complete
+  id: 2bed49eb-5e59-452b-a6b6-5ce59d76a7ff
+  status: Accepted
+
